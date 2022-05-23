@@ -1,0 +1,79 @@
+.contaner-1{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    padding: 50px;
+    background-color: aqua;
+    height: auto;
+    width: 100%;
+    text-align: center;
+
+}
+.contaner-2{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    padding: 50px;
+    background-color: aqua;
+    height: auto;
+    width: 100%;
+    text-align: center;
+
+}
+.contaner-3{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    padding: 50px;
+    background-color: aqua;
+    height: auto;
+    width: 100%;
+    text-align: center;
+
+}
+.contaner-4{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    padding: 50px;
+    background-color: aqua;
+    height: auto;
+    width: 100%;
+    text-align: center;
+
+}
+.contaner-5{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    padding: 50px;
+    background-color: aqua;
+    height: auto;
+    width: 100%;
+    text-align: center;
+    
+}
+.logo{
+    width: 20%;
+    height: 30px;
+    color: gray;
+    border:1px solid black;
+}
+.navbar{
+    width: 80%;
+    height: 30px;
+    color: gray;
+    border:1px solid black;
+}
+
+.sidebar{
+    width: 35px;
+    height: 80%;
+    color: gray;
+    border:1px solid black;
+}
+.carousel{
+    border:5px dotted black;
+    text-align: center;
+    
+}
